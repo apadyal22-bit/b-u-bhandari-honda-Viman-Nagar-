@@ -1,0 +1,7 @@
+{
+  "name": "B.U. Bhandari Honda – Customer Review Assistant",
+  "description": "Professional customer feedback and Google Review assistant for B.U. Bhandari Honda dealerships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
